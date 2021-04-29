@@ -1,6 +1,4 @@
-## Write a short comment describing this function
-## This function will cahe the dada of a matrix
-
+## This function will cahe the data of a matrix
 makeCacheMatrix <- function(x = matrix()) {
           inv <- NULL # seting NULL value to the inv variable
           set <- function(y){ # setting the value of the matrix
